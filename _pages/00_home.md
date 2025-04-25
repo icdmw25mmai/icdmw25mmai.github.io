@@ -60,14 +60,6 @@ This is an open call for papers, which solicits original contributions consideri
   </tr>
 </table>
 
-### Submissions
-
-We invite submissions through [CMT](https://cmt3.research.microsoft.com/MMAI2025) in IEEE ICDM format. Submissions should be anonymized and can cover any aspect of multimodal AI, including but not limited to:
-- Multimodal learning and fusion
-- Cross-modal representation learning
-- Multimodal applications in healthcare, robotics, and other domains
-- Multimodal datasets and benchmarks
-- Ethical considerations in multimodal AI
 
 **Important Dates:**
 - Paper submission deadline: TBD
