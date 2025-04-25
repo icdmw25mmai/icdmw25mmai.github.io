@@ -8,6 +8,8 @@ description: Advancing Multimodal AI Research and Applications
 
 The 5th IEEE International Workshop on Multimodal AI (MMAI) @ [IEEE ICDM](https://icdm2025.org/) 2025 focuses on advancing research and applications in multimodal artificial intelligence. This workshop continues the successful series of previous MMAI workshops, bringing together researchers and practitioners to explore the latest developments in multimodal learning, fusion, and applications.
 
+![MMAI Workshop Banner]({{ '/assets/images/MMAI_home.png' | prepend: site.baseurl }})
+
 **The workshop will be held in December 2025.**
 
 In conjunction with [IEEE ICDM](https://icdm2025.org/), the workshop will be held in person. Please see our [schedule](https://icdmw25mmai.github.io/schedule/) for details.
