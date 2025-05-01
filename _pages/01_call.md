@@ -2,6 +2,8 @@
 layout: page
 permalink: /cfp/
 title: Call for Papers
+nav: true
+nav_order: 1
 ---
 
 We will accept 3 types of papers: 
