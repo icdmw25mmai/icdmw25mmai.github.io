@@ -9,7 +9,28 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "post-a-post-with-plotly-js",
+  },{id: "nav-call-for-papers",
+          title: "Call for Papers",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/cfp/";
+          },
+        },{id: "nav-schedule",
+          title: "Schedule",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/schedule/";
+          },
+        },{id: "nav-accepted-papers",
+          title: "Accepted Papers",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/accepted_papers/index.html";
+          },
+        },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
