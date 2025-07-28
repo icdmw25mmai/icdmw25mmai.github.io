@@ -84,7 +84,7 @@ Checkout our [CFP](https://icdmw25mmai.github.io/cfp/) for additional details.
 
 * [Kaiqun Fu](https://kaichunf.github.io/), South Dakota State University
 * [Duoduo Liao](https://mason.gmu.edu/~dliao2/), George Mason University
-* [Yanjia Zhang](), Harvard Medical School
+* [Yanjia Zhang](), Baptist Health South Florida
 
 ### PC Members
 
