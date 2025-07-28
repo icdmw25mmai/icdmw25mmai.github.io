@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: /
-title: IEEE ICDM 2025
+title: MMAI @ IEEE ICDM 2025
 desc_title: MMAI @ IEEE ICDM 2025
 description: Advancing Multimodal AI Research and Applications
 ---
