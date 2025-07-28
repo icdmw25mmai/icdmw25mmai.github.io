@@ -21,7 +21,6 @@ Authors are encouraged to select their preferred venue when submitting their pap
   <img src="{{ '/assets/img/MMAI_home.png' | prepend: site.baseurl }}" alt="MMAI Workshop Banner" style="max-width: 100%; height: auto;">
 </div>
 
-**The workshop will be held in December 2025.**
 
 In conjunction with [IEEE ICDM](https://icdm2025.org/), the workshop will be held in person. Please see our [schedule](https://icdmw25mmai.github.io/schedule/) for details.
 
