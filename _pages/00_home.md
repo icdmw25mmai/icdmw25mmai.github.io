@@ -74,9 +74,9 @@ This is an open call for papers, which solicits original contributions consideri
 
 
 **Important Dates:**
-- Paper submission deadline: TBD
-- Notification of acceptance: TBD
-- Camera-ready deadline: TBD
+- Demo paper submission: **Friday, September 05, 2025**
+- Notification to authors: **Friday, September 26, 2025**
+- Camera-ready of Accepted Papers: **TBD**
 
 Checkout our [CFP](https://icdmw25mmai.github.io/cfp/) for additional details.
 
