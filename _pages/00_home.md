@@ -45,20 +45,32 @@ This is an open call for papers, which solicits original contributions consideri
 - **Multimodal Biometrics**
 - **Multimodal applications** (autonomous driving, cybersecurity, smart cities, intelligent transportation systems, industrial inspection, medical diagnosis, healthcare, social media, arts, etc.)
 
-### Confirmed Speakers
+[//]: # (### Confirmed Speakers)
 
-<table style="width:75%">
-  <tr>
-    <td style="text-align:center"><img src="{{ '/speaker_pictures/speaker1.jpg' | prepend: site.baseurl }}" height="175"></td>
-    <td style="text-align:center"><img src="{{ '/speaker_pictures/speaker2.jpg' | prepend: site.baseurl }}" height="175"></td>
-    <td style="text-align:center"><img src="{{ '/speaker_pictures/speaker3.jpg' | prepend: site.baseurl }}" height="175"></td>
-  </tr>
-  <tr>
-    <td style="text-align:center">Speaker 1<br>Affiliation</td>
-    <td style="text-align:center">Speaker 2<br>Affiliation</td>
-    <td style="text-align:center">Speaker 3<br>Affiliation</td>
-  </tr>
-</table>
+[//]: # ()
+[//]: # (<table style="width:75%">)
+
+[//]: # (  <tr>)
+
+[//]: # (    <td style="text-align:center"><img src="{{ '/speaker_pictures/speaker1.jpg' | prepend: site.baseurl }}" height="175"></td>)
+
+[//]: # (    <td style="text-align:center"><img src="{{ '/speaker_pictures/speaker2.jpg' | prepend: site.baseurl }}" height="175"></td>)
+
+[//]: # (    <td style="text-align:center"><img src="{{ '/speaker_pictures/speaker3.jpg' | prepend: site.baseurl }}" height="175"></td>)
+
+[//]: # (  </tr>)
+
+[//]: # (  <tr>)
+
+[//]: # (    <td style="text-align:center">Speaker 1<br>Affiliation</td>)
+
+[//]: # (    <td style="text-align:center">Speaker 2<br>Affiliation</td>)
+
+[//]: # (    <td style="text-align:center">Speaker 3<br>Affiliation</td>)
+
+[//]: # (  </tr>)
+
+[//]: # (</table>)
 
 
 **Important Dates:**
@@ -70,9 +82,24 @@ Checkout our [CFP](https://icdmw25mmai.github.io/cfp/) for additional details.
 
 ### Organizers
 
-* <b>[Your Name](https://your-website.com)</b>*, Your Institution
-* [Co-organizer 1](https://co-organizer1-website.com), Institution 1
-* [Co-organizer 2](https://co-organizer2-website.com), Institution 2
-* [Co-organizer 3](https://co-organizer3-website.com), Institution 3
+* [Kaiqun Fu](https://kaichunf.github.io/), South Dakota State University
+* [Duoduo Liao](https://mason.gmu.edu/~dliao2/), George Mason University
+* [Yanjia Zhang](), Harvard Medical School
 
-*=main correspondence
+### PC Members
+
+* [Zhiqian Chen](), Mississippi State University, USA
+* [Naresh Erukulla](), Macy's Inc., USA
+* [Maryam Heidari](), George Mason University, USA
+* [Fanchun Jin](), Google Inc., USA
+* [Achin Kulshrestha](), Google Inc., USA
+* [Ge Jin](), Purdue University, USA
+* [Ashwin Kannan](), Amazon, USA
+* [Kevin Lybarger](), George Mason University, USA
+* [Abhimanyu Mukerji](), Amazon, USA
+* [Chen Shen](), Google Inc., USA
+* [Arpit Sood](), Meta, USA
+* [Gregory Joseph Stein](), George Mason University, USA
+* [Alex Wong](), Yale University, USA
+* [Marcos Zampieri](), George Mason University, USA
+
