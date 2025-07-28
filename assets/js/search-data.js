@@ -3,8 +3,8 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-ieee-icdm-2025",
-    title: "IEEE ICDM 2025",
+    id: "nav-mmai-ieee-icdm-2025",
+    title: "MMAI @ IEEE ICDM 2025",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
