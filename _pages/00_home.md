@@ -83,8 +83,8 @@ This is an open call for papers, which solicits original contributions consideri
 
 
 **Important Dates:**
-- Short paper submission: ~~**Monday, September 01, 2025**~~  **Monday, September 08, 2025**
-- Poster paper submission: ~~**Monday, September 08, 2025**~~ **Monday, September 15, 2025**
+- Short paper submission: ~~**Monday, September 01, 2025**~~  ~~**Monday, September 08, 2025**~~ **Wednesday, September 17, 2025**
+- Poster paper submission: ~~**Monday, September 08, 2025**~~ ~~**Monday, September 15, 2025**~~ **Wednesday, September 17, 2025**
 - Notification to authors: **Friday, September 19, 2025**
 - Camera-ready of Accepted Papers: **Thursday, September 25, 2025**
 
