@@ -45,7 +45,7 @@ Please remove author names and affiliations from your manuscript before submissi
 | **Sept 1** | Submission deadline for short papers        |
 | **Sept 8** | Submission deadline for poster papers       |
 | **Sept 19**| Notification of acceptance                  |
-| **Sept 25**| Camera-ready submission due                 |
+| ~~**Sept 25**~~ **Oct 5**| Camera-ready submission due                 |
 
 ### Proceedings
 
