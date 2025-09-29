@@ -2,7 +2,7 @@
 layout: page
 permalink: /schedule/
 title: Schedule
-nav: false
+nav: true
 nav_order: 2
 ---
 
