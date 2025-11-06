@@ -8,10 +8,10 @@ nav_order: 2
 
 # 5th IEEE International Workshop on Multimodal AI (MMAI 2025)
 
-**Co-located with IEEE ICDM 2025**
-**Date:** Wednesday, November 12, 2025
-**Time:** 13:30 – 17:30 (ET)
-**Location:** South American A
+### **Co-located with IEEE ICDM 2025**
+### **Date:** Wednesday, November 12, 2025
+### **Time:** 13:30 – 17:30 (ET)
+### **Location:** South American A
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
