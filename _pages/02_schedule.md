@@ -17,19 +17,6 @@ nav_order: 2
 
 ## Workshop Agenda (Aligned with Main Conference Break, with Authors)
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-dlha{background-color:#FFF;border-color:inherit;color:#1F2328;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-b6ls{background-color:#FFF;border-color:inherit;color:#1F2328;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-1qq9{background-color:#F6F8FA;border-color:inherit;color:#1F2328;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-0yjy{background-color:#F6F8FA;border-color:inherit;color:#1F2328;text-align:left;vertical-align:top}
-.tg .tg-07pr{background-color:#FFF;border-color:inherit;color:#1F2328;text-align:left;vertical-align:top}
-.tg .tg-8i3j{background-color:#F6F8FA;border-color:inherit;color:#1F2328;font-weight:bold;text-align:left;vertical-align:top}
-</style>
 <table class="tg"><thead>
   <tr>
     <th class="tg-b6ls">Time (ET)</th>
