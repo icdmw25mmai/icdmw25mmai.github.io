@@ -19,7 +19,7 @@ Authors are encouraged to select their preferred venue when submitting their pap
 Papers accepted by MMAI@IEEE ICDM 2025 are also eligible for **complimentary online presentation** at MMAI@IEEE Big Data 2025 on Dec. 8, 2025. 
 
 <div style="text-align: center;">
-  <img src="{{ '/assets/img/MMAI_home.png' | prepend: site.baseurl }}" alt="MMAI Workshop Banner" style="max-width: 100%; height: auto;">
+  <img src="{{ '/assets/img/MMAI_home_new.png' | prepend: site.baseurl }}" alt="MMAI Workshop Banner" style="max-width: 100%; height: auto;">
 </div>
 
 
